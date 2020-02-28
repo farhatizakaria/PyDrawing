@@ -2,7 +2,7 @@
 
 This is a little pretty script to drawing in paint :cat:
 
-# Size of monitor
+# Size of my monitor
 
 ``` Size(width=1440, height=900) ```
 
